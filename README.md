@@ -25,3 +25,18 @@ Se utilizan:
 *footer
 ```
 `Commit adicional para actualizar el README: Corrección de marcado`
+
+---
+
+## Cuarto Commit:
+> Se agrega lo siguiente:
+
+```
+1. Se agregó maquetado de navbar con enlaces "#".
+* Inicio
+* Sobre mi
+* Clientes
+* Contacto
+2. Se inserta iconos svg desde tabler icons.
+```
+`No se realiza push a GitHub`
