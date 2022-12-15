@@ -40,3 +40,20 @@ Se utilizan:
 2. Se inserta iconos svg desde tabler icons.
 ```
 `No se realiza push a GitHub`
+
+---
+
+## Quinto Commit:
+> Se agrega lo siguiente:
+```
+1. Se agrega formulario solo en etiquetas:
+* Form
+* Fieldset
+* Legend
+* Input
+* Label
+* div
+2. Se concluye maquetación HTML.
+```
+`Se realiza push a GitHub y Merge con Main`
+> Inicia implementación de CSS
