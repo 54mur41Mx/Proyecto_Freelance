@@ -1,7 +1,7 @@
 # Proyecto_Freelance
 Proyecto de practica. Sitio freelance
 
-##Segundo Commit:
+## Segundo Commit:
 > Se agrega lo siguiente:
 
 ```
@@ -11,9 +11,12 @@ Proyecto de practica. Sitio freelance
 4. Se agrega sección "Mis servicios" --> "Diseño web, aplicaciones web, e-commerce".
 ```
 `Commit adicional para actualizar el README`
+
 ---
-##Tercer Commit:
+
+## Tercer Commit:
 > Se agrega lo siguiente:
+
 ```
 1. Se agregan etiquetas para mejorar la estructura del texto anteriormente agregado.
 Se utilizan:
@@ -21,3 +24,4 @@ Se utilizan:
 *section
 *footer
 ```
+`Commit adicional para actualizar el README: Corrección de marcado`
