@@ -67,3 +67,16 @@ Se utilizan:
 * se definen pseudo selectores en colores y tamaño de título
 ```
 `No se realiza push a GitHub`
+
+## Septimo Commit:
+> Se agrega lo siguiente:
+```
+1. Se completa barra de navegación sencilla utilizando solo CSS:
+* Uso de clases para el estilo de navegacion
+* Se agregaron propiedades basicas de flexbox
+* Se utiliza la pseudo clase Hover.
+2. Se implementa una normalización para que se despliegue lo mas similar posible en todos los navegadores.
+```
+`Se realiza push a GitHub`
+> Inicia implementación de responsive.
+> Inicia implementación de CSS en body.
