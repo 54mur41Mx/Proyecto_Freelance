@@ -57,3 +57,13 @@ Se utilizan:
 ```
 `Se realiza push a GitHub y Merge con Main`
 > Inicia implementación de CSS
+
+## Sexto Commit:
+> Se agrega lo siguiente:
+```
+1. Se agrega hoja de estilos en carpeta css:
+* Se estandariza el tamaño
+* Se utiliza rem como medida estandar
+* se definen pseudo selectores en colores y tamaño de título
+```
+`No se realiza push a GitHub`
